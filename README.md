@@ -10,7 +10,7 @@ Voici les exemples de projets ainsi que les compétences techniques que j'ai dé
   - Mettre en place un environnement Python 
   - Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
 
-- Concever une application au service de la santé publique
+- Concevoir une application au service de la santé publique
   - Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes 
   - Effectuer des opérations de nettoyage sur des données structurées
   - Effectuer une analyse statistique multivariée
